@@ -1,4 +1,4 @@
-<h1>Olá! Meu nome é Cleytoni</h1>
+# Olá! Meu nome é Cleytoni
 
 ## Tecnologias
 <div style="display: inline_block"><br>
@@ -9,9 +9,9 @@
   <img align="center" alt="Cleytoni-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
   <img align="center" alt="Cleytoni-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
-  
-  ## Redes Sociais
+</div><br>
+
+ 
   <div> 
   <a href="https://www.youtube.com/@CleytonCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/cleytoni.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
