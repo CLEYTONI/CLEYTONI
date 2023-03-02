@@ -1,8 +1,7 @@
 <h1>Olá! Meu nome é Cleytoni</h1>
 
-Essas são minhas tecnologias
+## Tecnologias
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="Cleytoni-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
   <img align="center" alt="Cleytoni-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
@@ -12,9 +11,8 @@ Essas são minhas tecnologias
   <img align="center" alt="Cleytoni-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
- 
-<div> 
+  ## Redes Sociais
+  <div> 
   <a href="https://www.youtube.com/@CleytonCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/cleytoni.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
