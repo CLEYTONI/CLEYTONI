@@ -5,9 +5,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Cleytoni-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
-  <img align="center" alt="Cleytoni-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-
-  <img align="center" alt="Cleytoni-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Cleytoni-PostgreSQL" height="30" width="40" src="https://icons8.com/icon/JRnxU7ZWP4mi/postgresql">
 
   <img align="center" alt="Cleytoni-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
